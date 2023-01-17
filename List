@@ -1573,23 +1573,22 @@ CCTV-14,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225933/index
 重庆少儿,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8
 
 
-4K8K,#genre#
-BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场4KHLG小果源,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-欢笑剧场4K,http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-纯享4K,http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+4K,#genre#
 CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
 CCTV4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 CCTV16-4K25P-SDR源,http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16-4K-25PHLG源,https://live.v1.mk/aishang/cctv164k
 CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 BesTV-4K,http://74.119.193.113:8280/live/bestv4k/hls.m3u8
-4K影视,http://159.75.85.63:5828/4kys.php
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 河南4K,http://74.119.193.113:8280/live/hn4k/hls.m3u8
+欢笑剧场4KHLG小果源,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+欢笑剧场4K,http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
+纯享4K,http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+4K影视,http://159.75.85.63:5828/4kys.php
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
@@ -1633,8 +1632,6 @@ Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/pl
 BBC UHD,http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
 Quadro 4K,http://91.207.180.142/Quadro4K/index.m3u8
 Sky Sport UHD,http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/290744.ts
-CCTV-8K-测试源,http://74.119.193.113:8280/live/cctv8k/hls.m3u8
-江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 YOSSO TV 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/16153/index.m3u8
 минимакс-flip UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/13057/index.m3u8
 SKY HIGH VHS UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17058/index.m3u8
@@ -1646,6 +1643,12 @@ Liberty KINOENG  UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17060/index
 Liberty MARVEL 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3u8
 Liberty Кино Микс 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15110/index.m3u8
 Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
+
+
+8K,#genre#
+BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+CCTV-8K-测试源,http://74.119.193.113:8280/live/cctv8k/hls.m3u8
+江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
 
 经典剧,#genre#
