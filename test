@@ -8182,7 +8182,7 @@ https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/2c997077/index.m3u8
 #EXTINF:-1 group-title="SVIP频道22",爱情公寓4
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/106977bb/index.m3u8
 
-#EXTINF:-1 group-title="Astro",Astro小太阳 1[1280x720]
+#EXTINF:-1 group-title="Astro",Astro小太阳[1280x720]
 https://epg.pw/stream/abe0d89d10fdbd29df1178796b858c3bf9745f6bcf6c45dea4bdfccad04526e6.m3u8
 #EXTINF:-1 group-title="Astro",Astro Warna HD[1280x720]
 https://epg.pw/stream/26b56634dce84fb0a7f6ac9c9349e82a241a7c6839b728fc1cbcb3c05bc78b30.ctv
