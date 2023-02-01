@@ -115,16 +115,36 @@ http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.m
 http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
 #EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",GTV八大综合台
 http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",经典功夫台
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",公视戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",靖洋戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",靖天戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",中视经典台
+http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",TVBS欢乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",TVBS台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",民视台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",中天新闻台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",中视新闻台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",经典功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",凤凰卫视中文台
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",凤凰卫视中文台
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",凤凰卫视资讯台
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",凤凰卫视资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",香港卫视台
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",香港卫视台
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",纬来电影台
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",纬来电影台
 http://pull-l3-cny.douyincdn.com/third/stream-6de7ee8878da79aaf393c0f63081cb0c.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",星卫电影台
+http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8
 #EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",GTV八大第1台
 http://pull-l3-cny.douyincdn.com/third/stream-9dbd2556b180db11b62283739297981b.m3u8
 #EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",GTV八大戏剧台
@@ -135,20 +155,42 @@ http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.m
 http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
 #EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",GTV八大综合台
 http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",经典功夫台
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",公视戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",靖洋戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",靖天戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",中视经典台
+http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",TVBS欢乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",TVBS台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",民视台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",中天新闻台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",中视新闻台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",经典功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",CHC动作电影
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",CHC动作电影
 http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",CHC家庭影院
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",CHC家庭影院
 http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",CHC高清电影
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",CHC高清电影
 http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",GTV八大戏剧台
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",GTV八大戏剧台
 http://198.16.64.10:8278/badadrama/playlist.m3u8tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",东森戏剧台
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",东森戏剧台
 http://198.16.64.10:8278/ettvdrama/playlist.m3u8tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
-#EXTINF:-1 group-title="中视新闻台HD，http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",好莱坞电影台
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",好莱坞电影台
 http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",GTV八大第1台
+http://50.7.220.74:8278/badafirst/playlist.m3u8tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1 group-title="星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8",GTV八大戏剧台
+http://50.7.220.74:8278/badadrama/playlist.m3u8tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 #EXTINF:-1 group-title="虎牙",音乐榜
 http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
 #EXTINF:-1 group-title="虎牙",女神上海
@@ -1543,7 +1585,7 @@ https://vd2.bdstatic.com/mda-mjf3hahmam95yfkd/sc/cae_h264_nowatermark/1634352379
 https://vd2.bdstatic.com/mda-nb8mpxwznwj6s3ps/sc/cae_h264_nowatermark_delogo/1644456565663753843/mda-nb8mpxwznwj6s3ps.mp4
 #EXTINF:-1 group-title="舞曲",DJ舞曲《拼命的喝酒拼命的抽烟》
 https://vd2.bdstatic.com/mda-nd1n5vscnn77rui2/sc/cae_h264_delogo/1648915878369422268/mda-nd1n5vscnn77rui2.mp4
-#EXTINF:-1 group-title="舞曲",「精选DJ洗脑神曲」节奏欢快，动感魔性
+#EXTINF:-1 group-title="舞曲",「精选DJ洗脑神曲」节奏欢快,动感魔性
 https://vd2.bdstatic.com/mda-ncsh78jh0xna7ngs/sc/cae_h264_delogo/1648389408244925817/mda-ncsh78jh0xna7ngs.mp4
 #EXTINF:-1 group-title="舞曲",最火的5首DJ舞曲
 https://vd2.bdstatic.com/mda-mmqfbgzdj99h2g2a/sc/cae_h264_nowatermark/1640431486180468034/mda-mmqfbgzdj99h2g2a.mp4
@@ -1551,7 +1593,7 @@ https://vd2.bdstatic.com/mda-mmqfbgzdj99h2g2a/sc/cae_h264_nowatermark/1640431486
 https://vd2.bdstatic.com/mda-nc64m5emhisa13mr/cae_h264_delogo/1646623933147802848/mda-nc64m5emhisa13mr.mp4
 #EXTINF:-1 group-title="舞曲",13首《经典老歌》DJ舞曲版
 https://vd4.bdstatic.com/mda-igbpw1bm4vdxitj0/logo/sc/mda-igbpw1bm4vdxitj0.mp4
-#EXTINF:-1 group-title="舞曲",《经典老歌》DJ舞曲串烧，70、80、90后
+#EXTINF:-1 group-title="舞曲",《经典老歌》DJ舞曲串烧,70、80、90后
 https://vd3.bdstatic.com/mda-ihps4033ktcz7mfq/sc/mda-ihps4033ktcz7mfq.mp4
 #EXTINF:-1 group-title="舞曲",《感动天感动地》无损超嗨版
 https://vd2.bdstatic.com/mda-kc9syj5km9m1bvbq/sc/mda-kc9syj5km9m1bvbq.mp4
@@ -5333,9 +5375,9 @@ https://p.xgkvwoj.cn/watch8/b8f57c574da78c54694677ab03a40770/b8f57c574da78c54694
 https://p.xgkvwoj.cn/watch8/01bce9e4e79e9d61845cd89446fe02f5/01bce9e4e79e9d61845cd89446fe02f5.m3u8
 #EXTINF:-1 group-title="SVIP频道2",老虎菜第 20 弹 喜欢幼师小可爱的兄弟们且看且珍惜了
 https://p.xgkvwoj.cn/watch9/0ea53ca472fb592914d1afb41f1aee1a/0ea53ca472fb592914d1afb41f1aee1a.m3u8
-#EXTINF:-1 group-title="SVIP频道2",老虎菜第 21 弹 约饭数次后，昨夜灌迷醉操了眼镜娘 (有后续)
+#EXTINF:-1 group-title="SVIP频道2",老虎菜第 21 弹 约饭数次后,昨夜灌迷醉操了眼镜娘 (有后续)
 https://p.xgkvwoj.cn/watch9/78b5ea36de95fcf3c3e9b2a0c9098ce9/78b5ea36de95fcf3c3e9b2a0c9098ce9.m3u8
-#EXTINF:-1 group-title="SVIP频道2",老虎菜第 22 弹 她不服？大白天正经约战 99 年眼镜娘，颜射！
+#EXTINF:-1 group-title="SVIP频道2",老虎菜第 22 弹 她不服？大白天正经约战 99 年眼镜娘,颜射！
 https://p.xgkvwoj.cn/watch9/77c1d3f98baa3d8af7aaafa1744bf438/77c1d3f98baa3d8af7aaafa1744bf438.m3u8
 #EXTINF:-1 group-title="SVIP频道2",老虎菜第 23 弹 今天遇到玩 JB 的高手做销售的少妇
 https://p.xgkvwoj.cn/watch9/7ce3c97bf7a5bc08a28d63e71336b108/7ce3c97bf7a5bc08a28d63e71336b108.m3u8
