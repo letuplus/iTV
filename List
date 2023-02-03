@@ -1057,7 +1057,7 @@ NHK世界，https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/
 南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 
 
-APTV IPv6，#genre#
+APTV IPv6,#genre#
 CCTV-1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
 CCTV-3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
