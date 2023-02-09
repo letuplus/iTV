@@ -4767,8 +4767,28 @@ http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index
 http://live.sjsrm.com/bjsjs/sd/live.m3u8zbeid
 #EXTINF:-1 group-title="北京",房山无线频道
 http://live.funhillrm.com/2/sd/live.m3u8zbeid
-#EXTINF:-1 group-title="北京",清华大学电视台
-http://live.cic.tsinghua.
+#EXTINF:-1 group-title="c-leung",翡翠台
+http://c-leung.homeip.net:8011/bysid/1
+#EXTINF:-1 group-title="c-leung",明珠台
+http://c-leung.homeip.net:8012/bysid/2
+#EXTINF:-1 group-title="c-leung",J2台
+http://c-leung.homeip.net:8012/bysid/82
+#EXTINF:-1 group-title="c-leung",無綫新聞台
+http://c-leung.homeip.net:8012/bysid/83
+#EXTINF:-1 group-title="c-leung",無綫財經體育資訊台
+http://c-leung.homeip.net:8012/bysid/85
+#EXTINF:-1 group-title="c-leung",ViuTVsix
+http://c-leung.homeip.net:8011/bysid/96
+#EXTINF:-1 group-title="c-leung",ViuTV
+http://c-leung.homeip.net:8011/bysid/99
+#EXTINF:-1 group-title="c-leung",港台電視
+http://c-leung.homeip.net:8013/bysid/31
+#EXTINF:-1 group-title="c-leung",港台電視 32
+http://c-leung.homeip.net:8013/bysid/32
+#EXTINF:-1 group-title="c-leung",CCTV-1
+http://c-leung.homeip.net:8013/bysid/33
+#EXTINF:-1 group-title="c-leung",CGTN紀錄頻道
+http://c-leung.homeip.net:8013/bysid/34
 #EXTINF:-1 group-title="SVIP频道1",mide-821小野六花
 https://t4s.cdn2020.com/video/m3u8/2020/09/25/31eaeb70/index.m3u8
 #EXTINF:-1 group-title="SVIP频道1",mide-784小野六花
