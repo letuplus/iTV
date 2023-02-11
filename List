@@ -85,7 +85,6 @@ CIBN风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8
 CIBN骄阳剧场,http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8
 CIBN流金岁月,http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
 
-
 卫视频道,#genre#
 北京卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
 深圳卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
@@ -184,7 +183,6 @@ CIBN流金岁月,http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
 江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
 江西卫视,http://140.207.241.3:8080/live/program/live/jxwshd/4000000/mnf.m3u8
 辽宁卫视,http://140.207.241.3:8080/live/program/live/lnwshd/4000000/mnf.m3u8
-
 
 江西移动,#genre#
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
@@ -325,7 +323,6 @@ NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 江西新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
 江西经济生活,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
 
-
 百视通,#genre#
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
@@ -418,8 +415,6 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 法治天地 8M,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 金色学堂 8M,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
 魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
-
-
 
 重庆有线,#genre#
 CCTV-1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
@@ -553,7 +548,6 @@ DOXTV,http://baidu.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f//index
 巫溪综合,http://baidu.live.cqccn.com/__cl/cg:live/__c/wlzh/__op/default/__f//index.m3u8
 秀山综合,http://baidu.live.cqccn.com/__cl/cg:live/__c/xiushan/__op/default/__f//index.m3u8
 
-
 歌华有线,#genre#
 CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
 CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
@@ -665,7 +659,6 @@ CETV4 标清,https://live.v1.mk/api/ghyx.php?id=CETV4HD_2000
 茶频道 标清,https://live.v1.mk/api/ghyx.php?id=ChaPinDaoHD_2000
 足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
 
-
 爱尚,#genre#
 欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
@@ -731,7 +724,6 @@ CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
 卡酷少儿,https://live.v1.mk/aishang/kkse
 嘉佳卡通,https://live.v1.mk/aishang/jjkt
 新动漫,https://live.v1.mk/aishang/xdm
-
 
 湖南IPv6,#genre#
 湖南卫视,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000035/main.m3u8?IASHttpSessionId=OTT
@@ -813,7 +805,6 @@ IPTV芒果好看,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 测试线路3,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285866/main.m3u8?IASHttpSessionId=OTT
 测试线路4,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285875/main.m3u8?IASHttpSessionId=OTT
 中国体育,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000197048/main.m3u8?IASHttpSessionId=OTT
-
 
 江西IPv6,#genre#
 CCTV-1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
@@ -936,7 +927,6 @@ NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 芒果华语,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
 芒果欧美,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 芒果独播,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-
 
 广东IPv6,#genre#
 CCTV-1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
@@ -1469,7 +1459,6 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
-
 4K频道,#genre#
 CCTV4K-25P-HLG,http://159.75.85.63:5679/cctv4k.php
 CCTV4K-50P-HLG,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
@@ -1543,14 +1532,12 @@ Liberty Кино Микс 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/151
 Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
 BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 
-
 8K频道,#genre#
 BTV纪实科教8K,https://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 BTV纪实科教8K,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 江苏8K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 江苏8K,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 CCTV-8K-测试源,http://74.119.193.113:8280/live/cctv8k/hls.m3u8
-
 
 经典剧场,#genre#
 大秦赋,http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
@@ -1569,8 +1556,7 @@ CCTV-8K-测试源,http://74.119.193.113:8280/live/cctv8k/hls.m3u8
 大鱼海棠,http://alist.xiaoya.pro/d/%E7%94%B5%E5%BD%B1/%E4%B8%AD%E5%9B%BD/CCTV%E5%90%88%E9%9B%86/%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93%E5%90%88%E9%9B%8613%20CCTV6.Collection.Vol.13.1080p.HDTV.H264-NGB/%E5%A4%A7%E9%B1%BC%E6%B5%B7%E6%A3%A0.ts
 泰坦尼克号,http://alist.xiaoya.pro/d/%E7%94%B5%E5%BD%B1/%E4%B8%AD%E5%9B%BD/CCTV%E5%90%88%E9%9B%86/%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93%E5%90%88%E9%9B%8638%20CCTV6.Collection.Vol.38.1080p.HDTV.H264-NGB/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7.ts
 
-
-测试频道,#genre#
+测试香港,#genre#
 翡翠台,http://c-leung.homeip.net:8011/bysid/1
 明珠台,http://c-leung.homeip.net:8012/bysid/2
 J2台,http://c-leung.homeip.net:8012/bysid/82
@@ -1582,5 +1568,16 @@ ViuTV,http://c-leung.homeip.net:8011/bysid/99
 港台電視 32,http://c-leung.homeip.net:8013/bysid/32
 CCTV-1,http://c-leung.homeip.net:8013/bysid/33
 CGTN紀錄頻道,http://c-leung.homeip.net:8013/bysid/34
+
+测试台湾,#genre#
+TVBS新聞,http://www.336699.live:1935/blocksix/-live072.stream/chunklist.m3u8
+民視新聞,http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
+三立財經,http://www.336699.live:1935/blocksix/-live089.stream/chunklist.m3u8
+中天新聞,http://www.336699.live:1935/blockfour/-009.stream/playlist.m3u8
+東森新聞,http://www.336699.live:1935/blocksix/-live114.stream/chunklist.m3u8
+東森財經,http://www.336699.live:1935/blocksix/-live019.stream/chunklist.m3u8
+華視新聞,http://www.336699.live:1935/blockfour/-052.stream/playlist.m3u8
+中視新聞,http://www.336699.live:1935/blockfour/-074.stream/playlist.m3u8
+寰宇新聞,http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8
 
 
