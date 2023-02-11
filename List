@@ -1556,28 +1556,3 @@ CCTV-8K-测试源,http://74.119.193.113:8280/live/cctv8k/hls.m3u8
 大鱼海棠,http://alist.xiaoya.pro/d/%E7%94%B5%E5%BD%B1/%E4%B8%AD%E5%9B%BD/CCTV%E5%90%88%E9%9B%86/%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93%E5%90%88%E9%9B%8613%20CCTV6.Collection.Vol.13.1080p.HDTV.H264-NGB/%E5%A4%A7%E9%B1%BC%E6%B5%B7%E6%A3%A0.ts
 泰坦尼克号,http://alist.xiaoya.pro/d/%E7%94%B5%E5%BD%B1/%E4%B8%AD%E5%9B%BD/CCTV%E5%90%88%E9%9B%86/%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93%E5%90%88%E9%9B%8638%20CCTV6.Collection.Vol.38.1080p.HDTV.H264-NGB/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7.ts
 
-测试香港,#genre#
-翡翠台,http://c-leung.homeip.net:8011/bysid/1
-明珠台,http://c-leung.homeip.net:8012/bysid/2
-J2台,http://c-leung.homeip.net:8012/bysid/82
-無綫新聞台,http://c-leung.homeip.net:8012/bysid/83
-無綫財經體育資訊台,http://c-leung.homeip.net:8012/bysid/85
-ViuTVsix,http://c-leung.homeip.net:8011/bysid/96
-ViuTV,http://c-leung.homeip.net:8011/bysid/99
-港台電視,http://c-leung.homeip.net:8013/bysid/31
-港台電視 32,http://c-leung.homeip.net:8013/bysid/32
-CCTV-1,http://c-leung.homeip.net:8013/bysid/33
-CGTN紀錄頻道,http://c-leung.homeip.net:8013/bysid/34
-
-测试台湾,#genre#
-TVBS新聞,http://www.336699.live:1935/blocksix/-live072.stream/chunklist.m3u8
-民視新聞,http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
-三立財經,http://www.336699.live:1935/blocksix/-live089.stream/chunklist.m3u8
-中天新聞,http://www.336699.live:1935/blockfour/-009.stream/playlist.m3u8
-東森新聞,http://www.336699.live:1935/blocksix/-live114.stream/chunklist.m3u8
-東森財經,http://www.336699.live:1935/blocksix/-live019.stream/chunklist.m3u8
-華視新聞,http://www.336699.live:1935/blockfour/-052.stream/playlist.m3u8
-中視新聞,http://www.336699.live:1935/blockfour/-074.stream/playlist.m3u8
-寰宇新聞,http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8
-
-
