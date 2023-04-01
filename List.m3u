@@ -1779,901 +1779,909 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="APTV IPv6",半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",豪华电视
+#EXTINF:-1 group-title="APTV IPv6",NHKWORLD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="APTV IPv6",豪华电视
 https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",体育赛事
+#EXTINF:-1 group-title="APTV IPv6",体育赛事
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",中国教育
+#EXTINF:-1 group-title="APTV IPv6",中国教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",职教频道
+#EXTINF:-1 group-title="APTV IPv6",职教频道
 http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",第一财经
+#EXTINF:-1 group-title="APTV IPv6",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",兵器科技
+#EXTINF:-1 group-title="APTV IPv6",兵器科技
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",怀旧剧场
+#EXTINF:-1 group-title="APTV IPv6",怀旧剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",世界地理
+#EXTINF:-1 group-title="APTV IPv6",世界地理
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",文化精品
+#EXTINF:-1 group-title="APTV IPv6",文化精品
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",中央电视台
+#EXTINF:-1 group-title="APTV IPv6",中央电视台
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",央视高网
+#EXTINF:-1 group-title="APTV IPv6",央视高网
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",风云剧场
+#EXTINF:-1 group-title="APTV IPv6",风云剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",风云音乐
+#EXTINF:-1 group-title="APTV IPv6",风云音乐
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",第一剧场
+#EXTINF:-1 group-title="APTV IPv6",第一剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",女性时尚
+#EXTINF:-1 group-title="APTV IPv6",女性时尚
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",风云足球
+#EXTINF:-1 group-title="APTV IPv6",风云足球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",电视指南
+#EXTINF:-1 group-title="APTV IPv6",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",内蒙古卫视
+#EXTINF:-1 group-title="APTV IPv6",内蒙古卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",北京卫视
+#EXTINF:-1 group-title="APTV IPv6",北京卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",湖南卫视
+#EXTINF:-1 group-title="APTV IPv6",湖南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225704/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",东方卫视
+#EXTINF:-1 group-title="APTV IPv6",东方卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",四川卫视
+#EXTINF:-1 group-title="APTV IPv6",四川卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225487/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",天津卫视
+#EXTINF:-1 group-title="APTV IPv6",天津卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",安徽卫视
+#EXTINF:-1 group-title="APTV IPv6",安徽卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225691/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",山东卫视
+#EXTINF:-1 group-title="APTV IPv6",山东卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225484/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",广东卫视
+#EXTINF:-1 group-title="APTV IPv6",广东卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",广西卫视
+#EXTINF:-1 group-title="APTV IPv6",广西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226211/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",江苏卫视
+#EXTINF:-1 group-title="APTV IPv6",江苏卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",江西卫视
+#EXTINF:-1 group-title="APTV IPv6",江西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225492/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",河北卫视
+#EXTINF:-1 group-title="APTV IPv6",河北卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225610/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",河南卫视
+#EXTINF:-1 group-title="APTV IPv6",河南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225611/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",浙江卫视
+#EXTINF:-1 group-title="APTV IPv6",浙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225703/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",海南卫视
+#EXTINF:-1 group-title="APTV IPv6",海南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226212/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",深圳卫视
+#EXTINF:-1 group-title="APTV IPv6",深圳卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225598/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",湖北卫视
+#EXTINF:-1 group-title="APTV IPv6",湖北卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225699/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",山西卫视
+#EXTINF:-1 group-title="APTV IPv6",山西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",东南卫视
+#EXTINF:-1 group-title="APTV IPv6",东南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225585/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",贵州卫视
+#EXTINF:-1 group-title="APTV IPv6",贵州卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225483/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",辽宁卫视
+#EXTINF:-1 group-title="APTV IPv6",辽宁卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225601/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",重庆卫视
+#EXTINF:-1 group-title="APTV IPv6",重庆卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",黑龙江卫视
+#EXTINF:-1 group-title="APTV IPv6",黑龙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225690/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",甘肃卫视
+#EXTINF:-1 group-title="APTV IPv6",甘肃卫视
 http://[2409:8087:5050:20::3023]/180000001001/00000001000000000045000000287932/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",吉林卫视
+#EXTINF:-1 group-title="APTV IPv6",吉林卫视
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",三沙卫视
+#EXTINF:-1 group-title="APTV IPv6",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",海峡卫视
+#EXTINF:-1 group-title="APTV IPv6",海峡卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",新疆卫视
+#EXTINF:-1 group-title="APTV IPv6",新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",云南卫视
+#EXTINF:-1 group-title="APTV IPv6",云南卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",青海卫视
+#EXTINF:-1 group-title="APTV IPv6",青海卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225727/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",厦门卫视
+#EXTINF:-1 group-title="APTV IPv6",厦门卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",金鹰纪实
+#EXTINF:-1 group-title="APTV IPv6",金鹰纪实
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",茶友频道
+#EXTINF:-1 group-title="APTV IPv6",茶友频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",快乐垂钓
+#EXTINF:-1 group-title="APTV IPv6",快乐垂钓
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",梨园频道
+#EXTINF:-1 group-title="APTV IPv6",梨园频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",武术世界
+#EXTINF:-1 group-title="APTV IPv6",武术世界
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",国学频道
+#EXTINF:-1 group-title="APTV IPv6",国学频道
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",纪实人文
+#EXTINF:-1 group-title="APTV IPv6",纪实人文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",乐游频道
+#EXTINF:-1 group-title="APTV IPv6",乐游频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",纯享超清
+#EXTINF:-1 group-title="APTV IPv6",纯享超清
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",生活时尚
+#EXTINF:-1 group-title="APTV IPv6",生活时尚
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",游戏风云
+#EXTINF:-1 group-title="APTV IPv6",游戏风云
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",欢乐剧场4K
+#EXTINF:-1 group-title="APTV IPv6",欢乐剧场4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",金色学堂
+#EXTINF:-1 group-title="APTV IPv6",金色学堂
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",动漫秀场
+#EXTINF:-1 group-title="APTV IPv6",动漫秀场
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",黑莓电影
+#EXTINF:-1 group-title="APTV IPv6",黑莓电影
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",黑莓动画
+#EXTINF:-1 group-title="APTV IPv6",黑莓动画
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",浙江新闻
+#EXTINF:-1 group-title="APTV IPv6",浙江新闻
 http://hw-ml.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",浙江国际
+#EXTINF:-1 group-title="APTV IPv6",浙江国际
 http://hw-ml.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",浙江少儿
+#EXTINF:-1 group-title="APTV IPv6",浙江少儿
 http://hw-ml.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",浙江教科影视
+#EXTINF:-1 group-title="APTV IPv6",浙江教科影视
 http://hw-ml.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",浙江数码时代
+#EXTINF:-1 group-title="APTV IPv6",浙江数码时代
 http://hw-ml.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",浙江市民休闲
+#EXTINF:-1 group-title="APTV IPv6",浙江市民休闲
 http://hw-ml.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",浙江经济生活
+#EXTINF:-1 group-title="APTV IPv6",浙江经济生活
 http://hw-ml.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",浙江钱江频道
+#EXTINF:-1 group-title="APTV IPv6",浙江钱江频道
 http://hw-ml.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",江西少儿
+#EXTINF:-1 group-title="APTV IPv6",江西少儿
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226194/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",福建少儿
+#EXTINF:-1 group-title="APTV IPv6",福建少儿
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",福建剧
+#EXTINF:-1 group-title="APTV IPv6",福建剧
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",福建旅游
+#EXTINF:-1 group-title="APTV IPv6",福建旅游
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",福建体
+#EXTINF:-1 group-title="APTV IPv6",福建体
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",福建综合
+#EXTINF:-1 group-title="APTV IPv6",福建综合
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",福建经济
+#EXTINF:-1 group-title="APTV IPv6",福建经济
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227184/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",海南经济
+#EXTINF:-1 group-title="APTV IPv6",海南经济
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",海南少儿
+#EXTINF:-1 group-title="APTV IPv6",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",海南文旅
+#EXTINF:-1 group-title="APTV IPv6",海南文旅
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",海南公共
+#EXTINF:-1 group-title="APTV IPv6",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",求索记录
+#EXTINF:-1 group-title="APTV IPv6",求索记录
 http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",芒果华语
+#EXTINF:-1 group-title="APTV IPv6",芒果华语
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",芒果独播
+#EXTINF:-1 group-title="APTV IPv6",芒果独播
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",芒果欧美
+#EXTINF:-1 group-title="APTV IPv6",芒果欧美
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",芒果综艺
+#EXTINF:-1 group-title="APTV IPv6",芒果综艺
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",超级综艺
+#EXTINF:-1 group-title="APTV IPv6",超级综艺
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225620/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",超级体育
+#EXTINF:-1 group-title="APTV IPv6",超级体育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",超级电影
+#EXTINF:-1 group-title="APTV IPv6",超级电影
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",超级电视剧
+#EXTINF:-1 group-title="APTV IPv6",超级电视剧
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225625/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",武博世界
+#EXTINF:-1 group-title="APTV IPv6",武博世界
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225656/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",中国功夫
+#EXTINF:-1 group-title="APTV IPv6",中国功夫
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225660/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",军旅剧场
+#EXTINF:-1 group-title="APTV IPv6",军旅剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225669/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",古装剧场
+#EXTINF:-1 group-title="APTV IPv6",古装剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225678/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",炫舞未来
+#EXTINF:-1 group-title="APTV IPv6",炫舞未来
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225707/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",潮妈辣妈
+#EXTINF:-1 group-title="APTV IPv6",潮妈辣妈
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225708/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",精品体育
+#EXTINF:-1 group-title="APTV IPv6",精品体育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",精品记录
+#EXTINF:-1 group-title="APTV IPv6",精品记录
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225710/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",金牌综艺
+#EXTINF:-1 group-title="APTV IPv6",金牌综艺
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225711/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",家庭影院
+#EXTINF:-1 group-title="APTV IPv6",家庭影院
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225713/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",精品大剧
+#EXTINF:-1 group-title="APTV IPv6",精品大剧
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225714/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",军事评论
+#EXTINF:-1 group-title="APTV IPv6",军事评论
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225757/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",明星大片
+#EXTINF:-1 group-title="APTV IPv6",明星大片
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225716/2/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",东北热剧
+#EXTINF:-1 group-title="APTV IPv6",东北热剧
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226202/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",海外剧场
+#EXTINF:-1 group-title="APTV IPv6",海外剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225712/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",欢乐剧场
+#EXTINF:-1 group-title="APTV IPv6",欢乐剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226210/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-1
+#EXTINF:-1 group-title="APTV IPv6",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-1
+#EXTINF:-1 group-title="APTV IPv6",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-2
+#EXTINF:-1 group-title="APTV IPv6",CCTV-2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-2
+#EXTINF:-1 group-title="APTV IPv6",CCTV-2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-3
+#EXTINF:-1 group-title="APTV IPv6",CCTV-3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-3
+#EXTINF:-1 group-title="APTV IPv6",CCTV-3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-4
+#EXTINF:-1 group-title="APTV IPv6",CCTV-4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-4
+#EXTINF:-1 group-title="APTV IPv6",CCTV-4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-5
+#EXTINF:-1 group-title="APTV IPv6",CCTV-5
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-5+
+#EXTINF:-1 group-title="APTV IPv6",CCTV-5+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-5+
+#EXTINF:-1 group-title="APTV IPv6",CCTV-5+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-6
+#EXTINF:-1 group-title="APTV IPv6",CCTV-6
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-6
+#EXTINF:-1 group-title="APTV IPv6",CCTV-6
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-7
+#EXTINF:-1 group-title="APTV IPv6",CCTV-7
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-#EXTINF:-1 group-title="NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",CCTV-7
+#EXTINF:-1 group-title="APTV IPv6",CCTV-7
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-8
+#EXTINF:-1 group-title="APTV IPv6",CCTV-8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="APTV IPv6",CCTV-8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-9
+#EXTINF:-1 group-title="APTV IPv6",CCTV-9
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-10
+#EXTINF:-1 group-title="APTV IPv6",CCTV-10
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-12
+#EXTINF:-1 group-title="APTV IPv6",CCTV-12
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-14
+#EXTINF:-1 group-title="APTV IPv6",CCTV-14
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-17
+#EXTINF:-1 group-title="APTV IPv6",CCTV-17
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",北京卫视
+#EXTINF:-1 group-title="APTV IPv6",北京卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",北京卫视
+#EXTINF:-1 group-title="APTV IPv6",北京卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",湖南卫视
+#EXTINF:-1 group-title="APTV IPv6",湖南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",湖南卫视
+#EXTINF:-1 group-title="APTV IPv6",湖南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",金鹰纪实
+#EXTINF:-1 group-title="APTV IPv6",金鹰纪实
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",江苏卫视
+#EXTINF:-1 group-title="APTV IPv6",江苏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",江苏卫视
+#EXTINF:-1 group-title="APTV IPv6",江苏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",浙江卫视
+#EXTINF:-1 group-title="APTV IPv6",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",浙江卫视
+#EXTINF:-1 group-title="APTV IPv6",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",东方卫视
+#EXTINF:-1 group-title="APTV IPv6",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",东方卫视
+#EXTINF:-1 group-title="APTV IPv6",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",东方卫视
+#EXTINF:-1 group-title="APTV IPv6",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",安徽卫视
+#EXTINF:-1 group-title="APTV IPv6",安徽卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",安徽卫视
+#EXTINF:-1 group-title="APTV IPv6",安徽卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",黑龙江卫视
+#EXTINF:-1 group-title="APTV IPv6",黑龙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",黑龙江卫视
+#EXTINF:-1 group-title="APTV IPv6",黑龙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",辽宁卫视
+#EXTINF:-1 group-title="APTV IPv6",辽宁卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",辽宁卫视
+#EXTINF:-1 group-title="APTV IPv6",辽宁卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",深圳卫视
+#EXTINF:-1 group-title="APTV IPv6",深圳卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",深圳卫视
+#EXTINF:-1 group-title="APTV IPv6",深圳卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",广东卫视
+#EXTINF:-1 group-title="APTV IPv6",广东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",广东卫视
+#EXTINF:-1 group-title="APTV IPv6",广东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",天津卫视
+#EXTINF:-1 group-title="APTV IPv6",天津卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",湖北卫视
+#EXTINF:-1 group-title="APTV IPv6",湖北卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",湖北卫视
+#EXTINF:-1 group-title="APTV IPv6",湖北卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",山东卫视
+#EXTINF:-1 group-title="APTV IPv6",山东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",重庆卫视
+#EXTINF:-1 group-title="APTV IPv6",重庆卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",上海纪实人文
+#EXTINF:-1 group-title="APTV IPv6",上海纪实人文
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",北京冬奥纪实
+#EXTINF:-1 group-title="APTV IPv6",北京冬奥纪实
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",SiTV环球纪实
+#EXTINF:-1 group-title="APTV IPv6",SiTV环球纪实
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",SiTV极速汽车
+#EXTINF:-1 group-title="APTV IPv6",SiTV极速汽车
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226574/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",SiTV极速汽车
+#EXTINF:-1 group-title="APTV IPv6",SiTV极速汽车
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",SiTV游戏风云
+#EXTINF:-1 group-title="APTV IPv6",SiTV游戏风云
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",SiTV都市剧场
+#EXTINF:-1 group-title="APTV IPv6",SiTV都市剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",体育赛事
+#EXTINF:-1 group-title="APTV IPv6",体育赛事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",精彩体育
+#EXTINF:-1 group-title="APTV IPv6",精彩体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",圆点生活
+#EXTINF:-1 group-title="APTV IPv6",圆点生活
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226552/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",爱上4K
+#EXTINF:-1 group-title="APTV IPv6",爱上4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",SiTV欢笑剧场4K
+#EXTINF:-1 group-title="APTV IPv6",SiTV欢笑剧场4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CHC动作电影
+#EXTINF:-1 group-title="APTV IPv6",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CHC家庭影院
+#EXTINF:-1 group-title="APTV IPv6",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CHC高清电影
+#EXTINF:-1 group-title="APTV IPv6",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",信号测试1
+#EXTINF:-1 group-title="APTV IPv6",信号测试1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",信号测试2
+#EXTINF:-1 group-title="APTV IPv6",信号测试2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",IPTV5+
+#EXTINF:-1 group-title="APTV IPv6",IPTV5+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-1
+#EXTINF:-1 group-title="APTV IPv6",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-1
+#EXTINF:-1 group-title="APTV IPv6",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225660/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-1
+#EXTINF:-1 group-title="APTV IPv6",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225965/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-1
+#EXTINF:-1 group-title="APTV IPv6",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225846/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-2
+#EXTINF:-1 group-title="APTV IPv6",CCTV-2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225762/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-3
+#EXTINF:-1 group-title="APTV IPv6",CCTV-3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225782/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-3
+#EXTINF:-1 group-title="APTV IPv6",CCTV-3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226398/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-4
+#EXTINF:-1 group-title="APTV IPv6",CCTV-4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225781/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-5
+#EXTINF:-1 group-title="APTV IPv6",CCTV-5
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225780/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-5
+#EXTINF:-1 group-title="APTV IPv6",CCTV-5
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226396/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-5
+#EXTINF:-1 group-title="APTV IPv6",CCTV-5
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-6
+#EXTINF:-1 group-title="APTV IPv6",CCTV-6
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225779/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-6
+#EXTINF:-1 group-title="APTV IPv6",CCTV-6
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226394/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",CCTV-7
+#EXTINF:-1 group-title="APTV IPv6",CCTV-7
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225778/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-8
+#EXTINF:-1 group-title="APTV IPv6",CCTV-8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8
+#EXTINF:-1 group-title="APTV IPv6",CCTV-8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226407/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-9
+#EXTINF:-1 group-title="APTV IPv6",CCTV-9
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225758/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-10
+#EXTINF:-1 group-title="APTV IPv6",CCTV-10
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225777/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-11
+#EXTINF:-1 group-title="APTV IPv6",CCTV-11
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-11
+#EXTINF:-1 group-title="APTV IPv6",CCTV-11
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225776/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-12
+#EXTINF:-1 group-title="APTV IPv6",CCTV-12
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225775/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-13新闻
+#EXTINF:-1 group-title="APTV IPv6",CCTV-13新闻
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-13新闻
+#EXTINF:-1 group-title="APTV IPv6",CCTV-13新闻
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225617/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-13新闻
+#EXTINF:-1 group-title="APTV IPv6",CCTV-13新闻
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225774/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-14
+#EXTINF:-1 group-title="APTV IPv6",CCTV-14
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-15音乐
+#EXTINF:-1 group-title="APTV IPv6",CCTV-15音乐
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-17
+#EXTINF:-1 group-title="APTV IPv6",CCTV-17
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",IPTV3+
+#EXTINF:-1 group-title="APTV IPv6",IPTV3+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226341/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",IPTV5+
+#EXTINF:-1 group-title="APTV IPv6",IPTV5+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226342/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",IPTV6+
+#EXTINF:-1 group-title="APTV IPv6",IPTV6+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226343/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",IPTV8+
+#EXTINF:-1 group-title="APTV IPv6",IPTV8+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226344/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",IPTV相声小品
+#EXTINF:-1 group-title="APTV IPv6",IPTV相声小品
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",中央新影发现之旅
+#EXTINF:-1 group-title="APTV IPv6",中央新影发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",中央新影老故事
+#EXTINF:-1 group-title="APTV IPv6",中央新影老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",央视女性时尚
+#EXTINF:-1 group-title="APTV IPv6",央视女性时尚
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",中国教育1
+#EXTINF:-1 group-title="APTV IPv6",中国教育1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",中国教育2
+#EXTINF:-1 group-title="APTV IPv6",中国教育2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",中国教育3
+#EXTINF:-1 group-title="APTV IPv6",中国教育3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",中国教育4
+#EXTINF:-1 group-title="APTV IPv6",中国教育4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",中国交通
+#EXTINF:-1 group-title="APTV IPv6",中国交通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226248/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",中国环球电视网
+#EXTINF:-1 group-title="APTV IPv6",中国环球电视网
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",北京卫视
+#EXTINF:-1 group-title="APTV IPv6",北京卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225790/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",卡酷少​​儿
+#EXTINF:-1 group-title="APTV IPv6",卡酷少​​儿
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",深圳卫视
+#EXTINF:-1 group-title="APTV IPv6",深圳卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",安徽卫视
+#EXTINF:-1 group-title="APTV IPv6",安徽卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225773/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",河南卫视
+#EXTINF:-1 group-title="APTV IPv6",河南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西卫视
+#EXTINF:-1 group-title="APTV IPv6",陕西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西卫视
+#EXTINF:-1 group-title="APTV IPv6",陕西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226322/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西卫视
+#EXTINF:-1 group-title="APTV IPv6",陕西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226326/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西卫视
+#EXTINF:-1 group-title="APTV IPv6",陕西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西卫视
+#EXTINF:-1 group-title="APTV IPv6",陕西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",广东卫视
+#EXTINF:-1 group-title="APTV IPv6",广东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225757/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",山东卫视
+#EXTINF:-1 group-title="APTV IPv6",山东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225771/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",湖北卫视
+#EXTINF:-1 group-title="APTV IPv6",湖北卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225760/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",河北卫视
+#EXTINF:-1 group-title="APTV IPv6",河北卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",西藏卫视
+#EXTINF:-1 group-title="APTV IPv6",西藏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",四川卫视
+#EXTINF:-1 group-title="APTV IPv6",四川卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",江苏卫视
+#EXTINF:-1 group-title="APTV IPv6",江苏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225746/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",天津卫视
+#EXTINF:-1 group-title="APTV IPv6",天津卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",辽宁卫视
+#EXTINF:-1 group-title="APTV IPv6",辽宁卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225772/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",厦门卫视
+#EXTINF:-1 group-title="APTV IPv6",厦门卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",新疆卫视
+#EXTINF:-1 group-title="APTV IPv6",新疆卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",湖南卫视
+#EXTINF:-1 group-title="APTV IPv6",湖南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225787/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",云南卫视
+#EXTINF:-1 group-title="APTV IPv6",云南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",福建东南卫视
+#EXTINF:-1 group-title="APTV IPv6",福建东南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",浙江卫视
+#EXTINF:-1 group-title="APTV IPv6",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225788/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",贵州卫视
+#EXTINF:-1 group-title="APTV IPv6",贵州卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",甘肃卫视
+#EXTINF:-1 group-title="APTV IPv6",甘肃卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",重庆卫视
+#EXTINF:-1 group-title="APTV IPv6",重庆卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225791/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",吉林卫视
+#EXTINF:-1 group-title="APTV IPv6",吉林卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",广西卫视
+#EXTINF:-1 group-title="APTV IPv6",广西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",青海卫视
+#EXTINF:-1 group-title="APTV IPv6",青海卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225794/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",山西卫视
+#EXTINF:-1 group-title="APTV IPv6",山西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",东方卫视
+#EXTINF:-1 group-title="APTV IPv6",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225789/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",东方卫视
+#EXTINF:-1 group-title="APTV IPv6",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225599/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",江西卫视
+#EXTINF:-1 group-title="APTV IPv6",江西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",宁夏卫视
+#EXTINF:-1 group-title="APTV IPv6",宁夏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",海南卫视
+#EXTINF:-1 group-title="APTV IPv6",海南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",广东南方卫视
+#EXTINF:-1 group-title="APTV IPv6",广东南方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",兵团卫视
+#EXTINF:-1 group-title="APTV IPv6",兵团卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",凤凰资讯
+#EXTINF:-1 group-title="APTV IPv6",凤凰资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",凤凰中文
+#EXTINF:-1 group-title="APTV IPv6",凤凰中文
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",山东教育
+#EXTINF:-1 group-title="APTV IPv6",山东教育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",足球
+#EXTINF:-1 group-title="APTV IPv6",足球
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226347/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",台湾
+#EXTINF:-1 group-title="APTV IPv6",台湾
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226348/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",栶坛春秋
+#EXTINF:-1 group-title="APTV IPv6",栶坛春秋
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",生态环境
+#EXTINF:-1 group-title="APTV IPv6",生态环境
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226243/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",京剧场
+#EXTINF:-1 group-title="APTV IPv6",京剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",上海哈哈炫动
+#EXTINF:-1 group-title="APTV IPv6",上海哈哈炫动
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",广东嘉佳卡通
+#EXTINF:-1 group-title="APTV IPv6",广东嘉佳卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",江苏优漫卡通
+#EXTINF:-1 group-title="APTV IPv6",江苏优漫卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",湖南金鹰卡通
+#EXTINF:-1 group-title="APTV IPv6",湖南金鹰卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",百视通体育
+#EXTINF:-1 group-title="APTV IPv6",百视通体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",百视通体育
+#EXTINF:-1 group-title="APTV IPv6",百视通体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",百视通体育
+#EXTINF:-1 group-title="APTV IPv6",百视通体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",百视通体育
+#EXTINF:-1 group-title="APTV IPv6",百视通体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",百视通体育
+#EXTINF:-1 group-title="APTV IPv6",百视通体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",百视通体育
+#EXTINF:-1 group-title="APTV IPv6",百视通体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225845/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",百视通超级体育
+#EXTINF:-1 group-title="APTV IPv6",百视通超级体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",百视通超级体育
+#EXTINF:-1 group-title="APTV IPv6",百视通超级体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",百视通超级体育
+#EXTINF:-1 group-title="APTV IPv6",百视通超级体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西体育休闲
+#EXTINF:-1 group-title="APTV IPv6",陕西体育休闲
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西公共
+#EXTINF:-1 group-title="APTV IPv6",陕西公共
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西影视
+#EXTINF:-1 group-title="APTV IPv6",陕西影视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西新闻资讯
+#EXTINF:-1 group-title="APTV IPv6",陕西新闻资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西生活
+#EXTINF:-1 group-title="APTV IPv6",陕西生活
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西生活
+#EXTINF:-1 group-title="APTV IPv6",陕西生活
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕西西部电影
+#EXTINF:-1 group-title="APTV IPv6",陕西西部电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",陕视直播
+#EXTINF:-1 group-title="APTV IPv6",陕视直播
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226408/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",西安1
+#EXTINF:-1 group-title="APTV IPv6",西安1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",西安2
+#EXTINF:-1 group-title="APTV IPv6",西安2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",西安3
+#EXTINF:-1 group-title="APTV IPv6",西安3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",西安4
+#EXTINF:-1 group-title="APTV IPv6",西安4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",西安丝路
+#EXTINF:-1 group-title="APTV IPv6",西安丝路
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",西安教育
+#EXTINF:-1 group-title="APTV IPv6",西安教育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",西安新闻综合
+#EXTINF:-1 group-title="APTV IPv6",西安新闻综合
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226386/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-1
+#EXTINF:-1 group-title="APTV IPv6",CCTV-1
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-2
+#EXTINF:-1 group-title="APTV IPv6",CCTV-2
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-3
+#EXTINF:-1 group-title="APTV IPv6",CCTV-3
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-4
+#EXTINF:-1 group-title="APTV IPv6",CCTV-4
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-5
+#EXTINF:-1 group-title="APTV IPv6",CCTV-5
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-5+
+#EXTINF:-1 group-title="APTV IPv6",CCTV-5+
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-6
+#EXTINF:-1 group-title="APTV IPv6",CCTV-6
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227137/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8",CCTV-7
+#EXTINF:-1 group-title="APTV IPv6",CCTV-7
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CCTV-9
+#EXTINF:-1 group-title="APTV IPv6",CCTV-8
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8
+#EXTINF:-1 group-title="APTV IPv6",CCTV-9
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CCTV-10
+#EXTINF:-1 group-title="APTV IPv6",CCTV-10
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CCTV-11
+#EXTINF:-1 group-title="APTV IPv6",CCTV-11
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CCTV-12
+#EXTINF:-1 group-title="APTV IPv6",CCTV-12
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CCTV-13
+#EXTINF:-1 group-title="APTV IPv6",CCTV-13
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CCTV-14
+#EXTINF:-1 group-title="APTV IPv6",CCTV-14
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CCTV-15
+#EXTINF:-1 group-title="APTV IPv6",CCTV-15
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CCTV-16
+#EXTINF:-1 group-title="APTV IPv6",CCTV-16
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CCTV-16
+#EXTINF:-1 group-title="APTV IPv6",CCTV-16
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CCTV-17
+#EXTINF:-1 group-title="APTV IPv6",CCTV-17
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CCTV-4K
+#EXTINF:-1 group-title="APTV IPv6",CCTV-4K
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CETV-1
+#EXTINF:-1 group-title="APTV IPv6",CETV-1
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227067/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",凤凰中文
+#EXTINF:-1 group-title="APTV IPv6",凤凰中文
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",凤凰资讯
+#EXTINF:-1 group-title="APTV IPv6",凤凰资讯
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227226/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",广西卫视
+#EXTINF:-1 group-title="APTV IPv6",广西卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227250/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",广东卫视
+#EXTINF:-1 group-title="APTV IPv6",广东卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227164/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",辽宁卫视
+#EXTINF:-1 group-title="APTV IPv6",辽宁卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227141/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",吉林卫视
+#EXTINF:-1 group-title="APTV IPv6",吉林卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227099/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",安徽卫视
+#EXTINF:-1 group-title="APTV IPv6",安徽卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227178/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",山东卫视
+#EXTINF:-1 group-title="APTV IPv6",山东卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",河北卫视
+#EXTINF:-1 group-title="APTV IPv6",河北卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227063/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",河南卫视
+#EXTINF:-1 group-title="APTV IPv6",河南卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227095/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",湖北卫视
+#EXTINF:-1 group-title="APTV IPv6",湖北卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227111/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",湖南卫视
+#EXTINF:-1 group-title="APTV IPv6",湖南卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227232/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",浙江卫视
+#EXTINF:-1 group-title="APTV IPv6",浙江卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225870/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",云南卫视
+#EXTINF:-1 group-title="APTV IPv6",云南卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227181/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",甘肃卫视
+#EXTINF:-1 group-title="APTV IPv6",甘肃卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",贵州卫视
+#EXTINF:-1 group-title="APTV IPv6",贵州卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227201/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",四川卫视
+#EXTINF:-1 group-title="APTV IPv6",四川卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",重庆卫视
+#EXTINF:-1 group-title="APTV IPv6",重庆卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227240/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",北京卫视
+#EXTINF:-1 group-title="APTV IPv6",北京卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",冬奥纪实
+#EXTINF:-1 group-title="APTV IPv6",冬奥纪实
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",天津卫视
+#EXTINF:-1 group-title="APTV IPv6",天津卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227205/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",深圳卫视
+#EXTINF:-1 group-title="APTV IPv6",深圳卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227242/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",江苏卫视
+#EXTINF:-1 group-title="APTV IPv6",江苏卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227160/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",江西卫视
+#EXTINF:-1 group-title="APTV IPv6",江西卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227209/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",海南卫视
+#EXTINF:-1 group-title="APTV IPv6",海南卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227216/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",海峡卫视
+#EXTINF:-1 group-title="APTV IPv6",海峡卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",厦门卫视
+#EXTINF:-1 group-title="APTV IPv6",厦门卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",东方卫视
+#EXTINF:-1 group-title="APTV IPv6",东方卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",东南卫视
+#EXTINF:-1 group-title="APTV IPv6",东南卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",黑龙江卫视
+#EXTINF:-1 group-title="APTV IPv6",黑龙江卫视
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227197/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",福建综合
+#EXTINF:-1 group-title="APTV IPv6",福建综合
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",福建新闻
+#EXTINF:-1 group-title="APTV IPv6",福建新闻
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",福建经济
+#EXTINF:-1 group-title="APTV IPv6",福建经济
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",福建少儿
+#EXTINF:-1 group-title="APTV IPv6",福建少儿
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",福建旅游
+#EXTINF:-1 group-title="APTV IPv6",福建旅游
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",福建公共
+#EXTINF:-1 group-title="APTV IPv6",福建公共
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227153/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",福建体
+#EXTINF:-1 group-title="APTV IPv6",福建体
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",福建教育
+#EXTINF:-1 group-title="APTV IPv6",福建教育
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",福建电视剧
+#EXTINF:-1 group-title="APTV IPv6",福建电视剧
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",宁德新闻综合
+#EXTINF:-1 group-title="APTV IPv6",宁德新闻综合
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227196/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",龙岩综合
+#EXTINF:-1 group-title="APTV IPv6",龙岩综合
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",厦门-1
+#EXTINF:-1 group-title="APTV IPv6",厦门-1
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227185/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",厦门-2
+#EXTINF:-1 group-title="APTV IPv6",厦门-2
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226777/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",厦门-3
+#EXTINF:-1 group-title="APTV IPv6",厦门-3
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226760/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",南平-1
+#EXTINF:-1 group-title="APTV IPv6",南平-1
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",南平-2
+#EXTINF:-1 group-title="APTV IPv6",南平-2
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226956/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",乐游
+#EXTINF:-1 group-title="APTV IPv6",乐游
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227083/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",陶瓷
+#EXTINF:-1 group-title="APTV IPv6",陶瓷
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227234/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",纪实人文
+#EXTINF:-1 group-title="APTV IPv6",纪实人文
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",金鹰纪实
+#EXTINF:-1 group-title="APTV IPv6",金鹰纪实
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",金鹰卡通
+#EXTINF:-1 group-title="APTV IPv6",金鹰卡通
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",快乐垂钓
+#EXTINF:-1 group-title="APTV IPv6",快乐垂钓
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227028/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",黑莓电影
+#EXTINF:-1 group-title="APTV IPv6",黑莓电影
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",黑莓动画
+#EXTINF:-1 group-title="APTV IPv6",黑莓动画
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",第一财经
+#EXTINF:-1 group-title="APTV IPv6",第一财经
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226564/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",动漫秀场
+#EXTINF:-1 group-title="APTV IPv6",动漫秀场
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227071/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",生活时尚
+#EXTINF:-1 group-title="APTV IPv6",生活时尚
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227091/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",欢乐剧场
+#EXTINF:-1 group-title="APTV IPv6",欢乐剧场
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227145/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",都市剧场
+#EXTINF:-1 group-title="APTV IPv6",都市剧场
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",游戏风云
+#EXTINF:-1 group-title="APTV IPv6",游戏风云
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227075/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",哒哒赛事
+#EXTINF:-1 group-title="APTV IPv6",哒哒赛事
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",哒哒电竞
+#EXTINF:-1 group-title="APTV IPv6",哒哒电竞
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227252/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",4KUHD
+#EXTINF:-1 group-title="APTV IPv6",4KUHD
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CGTN俄语
+#EXTINF:-1 group-title="APTV IPv6",CGTN俄语
 https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CGTN法语
+#EXTINF:-1 group-title="APTV IPv6",CGTN法语
 https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CGTN西语
+#EXTINF:-1 group-title="APTV IPv6",CGTN西语
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8",CGTN阿语
+#EXTINF:-1 group-title="APTV IPv6",CGTN阿语
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="",CCTV4K-25P-HLG
+#EXTINF:-1 group-title="4K频道",CCTV4K-25P-HLG
 http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 group-title="",CCTV4K-50P-HLG
+#EXTINF:-1 group-title="4K频道",CCTV4K-50P-HLG
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1 group-title="",CCTV16-4K25P-SDR
+#EXTINF:-1 group-title="4K频道",CCTV16-4K25P-SDR
 http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-#EXTINF:-1 group-title="",CCTV16-4K-25PHLG
+#EXTINF:-1 group-title="4K频道",CCTV16-4K-25PHLG
 https://live.v1.mk/aishang/cctv164k
-#EXTINF:-1 group-title="",CCTV16-4K-50P-HLG
+#EXTINF:-1 group-title="4K频道",CCTV16-4K-50P-HLG
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1 group-title="",北京IPTV-4K
+#EXTINF:-1 group-title="4K频道",北京IPTV-4K
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 group-title="",苏州4K
+#EXTINF:-1 group-title="4K频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="",河南4K
+#EXTINF:-1 group-title="4K频道",河南4K
 http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:-1 group-title="",芒果娱乐4K
+#EXTINF:-1 group-title="4K频道",芒果娱乐4K
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="",纯享4K
+#EXTINF:-1 group-title="4K频道",纯享4K
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="",欢笑剧场4KHLG小果源
+#EXTINF:-1 group-title="4K频道",欢笑剧场4KHLG小果源
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1 group-title="",欢笑剧场4K
+#EXTINF:-1 group-title="4K频道",欢笑剧场4K
 http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-#EXTINF:-1 group-title="",纯享4K
+#EXTINF:-1 group-title="4K频道",纯享4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="",纯享4K
+#EXTINF:-1 group-title="4K频道",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="",爱上4K
+#EXTINF:-1 group-title="4K频道",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="",4K影视
+#EXTINF:-1 group-title="4K频道",4K影视
 http://159.75.85.63:5828/4kys.php
-#EXTINF:-1 group-title="",4K超高清电影
+#EXTINF:-1 group-title="4K频道",4K超高清电影
 http://159.75.85.63:5681/sxg.php
-#EXTINF:-1 group-title="",斗鱼4K
+#EXTINF:-1 group-title="4K频道",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 group-title="",咪咕体育-4K
+#EXTINF:-1 group-title="4K频道",咪咕体育-4K
 http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 group-title="",咪咕体育-4K
+#EXTINF:-1 group-title="4K频道",咪咕体育-4K
 http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 group-title="",咪咕体育-4K
+#EXTINF:-1 group-title="4K频道",咪咕体育-4K
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 group-title="",Astro Super Sport 4K
+#EXTINF:-1 group-title="4K频道",Astro Super Sport 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-#EXTINF:-1 group-title="",Astro Super Sport 4K
+#EXTINF:-1 group-title="4K频道",Astro Super Sport 4K
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
-#EXTINF:-1 group-title="",Astro Super Sport 4K
+#EXTINF:-1 group-title="4K频道",Astro Super Sport 4K
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
-#EXTINF:-1 group-title="",Astro Super Sport 4K
+#EXTINF:-1 group-title="4K频道",Astro Super Sport 4K
 http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
-#EXTINF:-1 group-title="",Now Sports UHD HK
+#EXTINF:-1 group-title="4K频道",Now Sports UHD HK
 http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-#EXTINF:-1 group-title="",Now Sports UHD HK
+#EXTINF:-1 group-title="4K频道",Now Sports UHD HK
 http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
-#EXTINF:-1 group-title="",Now Sports UHD HK
+#EXTINF:-1 group-title="4K频道",Now Sports UHD HK
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032489
-#EXTINF:-1 group-title="",Now Sports UHD HK
+#EXTINF:-1 group-title="4K频道",Now Sports UHD HK
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/117957
-#EXTINF:-1 group-title="",V Sports UHD
+#EXTINF:-1 group-title="4K频道",V Sports UHD
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/114242
-#EXTINF:-1 group-title="",V Sports UHD
+#EXTINF:-1 group-title="4K频道",V Sports UHD
 http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
-#EXTINF:-1 group-title="",BeIN Sports 4K
+#EXTINF:-1 group-title="4K频道",BeIN Sports 4K
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
-#EXTINF:-1 group-title="",Eleven Sports 1 4K
+#EXTINF:-1 group-title="4K频道",Eleven Sports 1 4K
 http://4iptv.xyz:8080/IvanC10/5RVePcKFMFGG/154014
-#EXTINF:-1 group-title="",Evenement UHD
+#EXTINF:-1 group-title="4K频道",Evenement UHD
 http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/496756
-#EXTINF:-1 group-title="",Ziggo Sport 4K
+#EXTINF:-1 group-title="4K频道",Ziggo Sport 4K
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
-#EXTINF:-1 group-title="",RTL UHD
+#EXTINF:-1 group-title="4K频道",RTL UHD
 http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/29821.ts
-#EXTINF:-1 group-title="",Hub Premier Sport 4K
+#EXTINF:-1 group-title="4K频道",Hub Premier Sport 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-#EXTINF:-1 group-title="",DAZN F1 UHD 4K
+#EXTINF:-1 group-title="4K频道",DAZN F1 UHD 4K
 http://tribaliptv.com:8080/Gustavo/123456/4930
-#EXTINF:-1 group-title="",MOVISTAR LIGA DE CAMPEONES UHD 4K
+#EXTINF:-1 group-title="4K频道",MOVISTAR LIGA DE CAMPEONES UHD 4K
 http://tribaliptv.com:8080/Gustavo/123456/12401
-#EXTINF:-1 group-title="",ODISEA UHD 4K
+#EXTINF:-1 group-title="4K频道",ODISEA UHD 4K
 http://tribaliptv.com:8080/Gustavo/123456/5195
-#EXTINF:-1 group-title="",Sport5 4k
+#EXTINF:-1 group-title="4K频道",Sport5 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
-#EXTINF:-1 group-title="",TRT 4k
+#EXTINF:-1 group-title="4K频道",TRT 4k
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/38904
-#EXTINF:-1 group-title="",TRT 4k
+#EXTINF:-1 group-title="4K频道",TRT 4k
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
-#EXTINF:-1 group-title="",DIGI 4k
+#EXTINF:-1 group-title="4K频道",DIGI 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
-#EXTINF:-1 group-title="",VTC13 4K
+#EXTINF:-1 group-title="4K频道",VTC13 4K
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
-#EXTINF:-1 group-title="",Insight UHD
+#EXTINF:-1 group-title="4K频道",Insight UHD
 http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=24cce35b06aecc51433333
-#EXTINF:-1 group-title="",TRAVELXP TV 4K
+#EXTINF:-1 group-title="4K频道",TRAVELXP TV 4K
 http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
-#EXTINF:-1 group-title="",NASA 4k 60P
+#EXTINF:-1 group-title="4K频道",NASA 4k 60P
 http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
-#EXTINF:-1 group-title="",MYZEN TV 4K
+#EXTINF:-1 group-title="4K频道",MYZEN TV 4K
 http://cdnx1.plusx.tv:8880/myZen/mono.m3u8?token=24cce35b06aecc51433333
-#EXTINF:-1 group-title="",ULTRA NATURE TV 4K
+#EXTINF:-1 group-title="4K频道",ULTRA NATURE TV 4K
 http://185.236.229.31:9981/play/a01d
-#EXTINF:-1 group-title="",Fashion4K
+#EXTINF:-1 group-title="4K频道",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="",Clarity4K
+#EXTINF:-1 group-title="4K频道",Clarity4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="",爱自然
+#EXTINF:-1 group-title="4K频道",爱自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="",MUZZIK ZZ4000 4K
+#EXTINF:-1 group-title="4K频道",MUZZIK ZZ4000 4K
 http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-#EXTINF:-1 group-title="",loupe 4K
+#EXTINF:-1 group-title="4K频道",loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 group-title="",Bloomberg TV+ 4K
+#EXTINF:-1 group-title="4K频道",Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="",BBC UHD
+#EXTINF:-1 group-title="4K频道",BBC UHD
 http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
-#EXTINF:-1 group-title="",Quadro 4K
+#EXTINF:-1 group-title="4K频道",Quadro 4K
 http://91.207.180.142/Quadro4K/index.m3u8
-#EXTINF:-1 group-title="",Sky Sport UHD
+#EXTINF:-1 group-title="4K频道",Sky Sport UHD
 http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/290744.ts
-#EXTINF:-1 group-title="",YOSSO TV 4K
+#EXTINF:-1 group-title="4K频道",YOSSO TV 4K
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/16153/index.m3u8
-#EXTINF:-1 group-title="",минимакс-flip UHD
+#EXTINF:-1 group-title="4K频道",минимакс-flip UHD
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/13057/index.m3u8
-#EXTINF:-1 group-title="",SKY HIGH VHS UHD
+#EXTINF:-1 group-title="4K频道",SKY HIGH VHS UHD
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17058/index.m3u8
-#EXTINF:-1 group-title="",SKY HIGH UHD HDR
+#EXTINF:-1 group-title="4K频道",SKY HIGH UHD HDR
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17059/index.m3u8
-#EXTINF:-1 group-title="",SKY HIGH DANCE UHD
+#EXTINF:-1 group-title="4K频道",SKY HIGH DANCE UHD
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14250/index.m3u8
-#EXTINF:-1 group-title="",SKY HIGH DOC UHD
+#EXTINF:-1 group-title="4K频道",SKY HIGH DOC UHD
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17053/index.m3u8
-#EXTINF:-1 group-title="",SKY HIGH NATURE 4K HDR
+#EXTINF:-1 group-title="4K频道",SKY HIGH NATURE 4K HDR
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14248/index.m3u8
-#EXTINF:-1 group-title="",Liberty KINOENG  UHD
+#EXTINF:-1 group-title="4K频道",Liberty KINOENG  UHD
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17060/index.m3u8
-#EXTINF:-1 group-title="",Liberty MARVEL 4K
+#EXTINF:-1 group-title="4K频道",Liberty MARVEL 4K
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3u8
-#EXTINF:-1 group-title="",Liberty Кино Микс 4K
+#EXTINF:-1 group-title="4K频道",Liberty Кино Микс 4K
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15110/index.m3u8
-#EXTINF:-1 group-title="",Liberty Мульт 4K
+#EXTINF:-1 group-title="4K频道",Liberty Мульт 4K
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
-#EXTINF:-1 group-title="",BesTV-4K
+#EXTINF:-1 group-title="4K频道",BesTV-4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 group-title="8K频道",BTV纪实科教8K
 https://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
