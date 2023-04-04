@@ -907,7 +907,7 @@ CHC动画,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000000205
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-NHKWORLD, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 豪华电视,https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 体育赛事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 中国教育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
@@ -1032,7 +1032,7 @@ CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 CCTV-9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
@@ -1098,7 +1098,7 @@ CCTV-5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8
 CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225779/index.m3u8
 CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226394/index.m3u8
 CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225778/index.m3u8
-CCTV-8, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8
+CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8
 CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226407/index.m3u8
 CCTV-9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225758/index.m3u8
 CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225777/index.m3u8
@@ -1126,7 +1126,7 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 中国交通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226248/index.m3u8
 中国环球电视网,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225790/index.m3u8
-卡酷少​​儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225773/index.m3u8
 河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
@@ -1208,7 +1208,7 @@ CCTV-5,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.
 CCTV-5+,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 CCTV-6,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227137/index.m3u8
 CCTV-7,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
-CCTV-8, http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8
+CCTV-8,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8
 CCTV-9,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
 CCTV-10,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
 CCTV-11,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
