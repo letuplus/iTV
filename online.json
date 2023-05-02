@@ -2,7 +2,9 @@
   "lives": [
     {
       "name": "IPTV",
-      "url": "https://raw.fastgit.org/letuplus/iTV/main/List"
+      "url": "https://raw.fastgit.org/letuplus/iTV/main/List",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "SVIP01",
