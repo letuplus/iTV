@@ -23,6 +23,10 @@
    {
       "name": "晴天",
       "url": "https://raw.fastgit.org/letuplus/iTV/main/qt.txt"
-    }
+    },
+   {
+      "name": "Cam",
+      "url": "https://raw.fastgit.org/letuplus/iTV/main/Cam"
+    }    
   ]
 }
