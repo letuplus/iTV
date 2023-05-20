@@ -13,3 +13,68 @@ CCTV16-4K-50P-32M,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/P
 CCTV1-1080-25P-12M,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
 风景-8K-30P-HIGH,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 风景-8K-30P-HIGH,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3454244171_-1559503599/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1670251811&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+
+港台代理,#genre#
+无线财经体育,https://dispatch.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8×tamp=1684219139&rand=nYeBsGk0z6&uuid=9b647b3816b2a66a&from=web&sign=fb72ab2eb27f3d3c9c89c47910402251
+无线财经体育,http://120.84.96.82:808/hls/86/index.m3u8
+无线财经体育,http://120.84.96.89:808/hls/86/index.m3u8
+无线财经体育,http://radius.8866.org:800/hls/83/index.m3u8
+无线财经体育,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
+无线财经体育,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
+无线新闻,https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg×tamp=1684218356&rand=gOvXtNmGYm&uuid=9b647b3816b2a66a&from=web&sign=af138b17529bdc8630da5e688f452430
+无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻,https://epg.pw/stream/baffce872acfa0f9d0a3c302f56bb35fcb54c29ed07b3349c532724e4202da82.ctv
+有线新闻,https://dispatch.ulivetv.net/v/live/cfxpyfk7tolc.m3u8?stream_id=cfxpyfk7tolc×tamp=1684386957&rand=9Wz4Ao5tvQ&uuid=9b647b3816b2a66a&from=web&sign=935c11494174cfa62a5e36760fe604a9
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,https://p2.weizan.cn/1646497941/614105386721937652/live.m3u8
+翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc×tamp=1684386186&rand=Ni8Rw6rndN&uuid=9b647b3816b2a66a&from=web&sign=ead53160d4dabd0506da91b89c483a6a
+翡翠台,http://113.117.74.15:8081/hls/67/index.m3u8
+翡翠台,https://epg.pw/stream/1fbab856b95f1ee5eed372ecef4a3c30b658c4e39a73734f0292ce7635ac0248.ctv
+翡翠台,http://r.jdshipin.com/62WM7
+J2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8×tamp=1684387184&rand=VWlJw3UhCA&uuid=9b647b3816b2a66a&from=web&sign=9b491c50fd33fda9f1cf34ae68ea5fa7
+有线18台,https://dispatch.ulivetv.net/v/live/cfxrq4i1dvb4.m3u8?stream_id=cfxrq4i1dvb4×tamp=1684220218&rand=fH36xpa9D8&uuid=9b647b3816b2a66a&from=web&sign=470093659af9a282b92b139dca1413db
+台视新闻,https://dispatch.ulivetv.net/v/live/cfxww2r4nnwg.m3u8?stream_id=cfxww2r4nnwg×tamp=1684387599&rand=ppf2G1Add7&uuid=9b647b3816b2a66a&from=web&sign=9938a91fced907abe987ccf609ed9b64
+寰宇新闻,https://dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4×tamp=1684219862&rand=UsllXcwxbp&uuid=9b647b3816b2a66a&from=web&sign=659a3a6564d4ca206d2c6be20c5ea906
+东森新闻,https://dispatch.ulivetv.net/v/live/cfxwieh71kg0.m3u8?stream_id=cfxwieh71kg0×tamp=1684220947&rand=352ZCg984e&uuid=9b647b3816b2a66a&from=web&sign=bfa4cb027c34af0e320f764ac2c17270
+东森超视,https://dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0×tamp=1684387336&rand=hRjFJPWUVJ&uuid=9b647b3816b2a66a&from=web&sign=ac6df939675cc553a14ab611dcb56948
+TVBS新闻,https://dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c×tamp=1684220007&rand=01XVtfQV30&uuid=9b647b3816b2a66a&from=web&sign=07ce20e47593bcc2f19630a482a34b5b
+中天新闻,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w×tamp=1684220061&rand=ozOJcRxKhv&uuid=9b647b3816b2a66a&from=web&sign=ab2084bfcea63e832e11823ef85fb417
+中天亚洲,https://dispatch.ulivetv.net/v/live/cg0im4r5dh34.m3u8?stream_id=cg0im4r5dh34×tamp=1684387396&rand=elyqrF9B5p&uuid=9b647b3816b2a66a&from=web&sign=2f82ff62ef9708e416766565d25cf769
+中天综合,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc×tamp=1684387487&rand=h5ZAGkW3j1&uuid=9b647b3816b2a66a&from=web&sign=190c1b05dbf0f302a89ff5463ea6a99c
+CCTV 1,https://dispatch.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w×tamp=1684385250&rand=e5jNtUglkB&uuid=9b647b3816b2a66a&from=web&sign=75b25a06962f2c3201081dcaf53d7238
+CCTV 2,https://dispatch.ulivetv.net/v/live/c9vu0827ucao.m3u8?stream_id=c9vu0827ucao×tamp=1684385299&rand=Uk56EUgriw&uuid=9b647b3816b2a66a&from=web&sign=cce16a4c995175c3de9c64c26bbc33fc
+CCTV 3,https://dispatch.ulivetv.net/v/live/c9vu0ly50rls.m3u8?stream_id=c9vu0ly50rls×tamp=1684385594&rand=SDLuKgCFK8&uuid=9b647b3816b2a66a&from=web&sign=12ab43d001911d8d0a8db1e50b1a600b
+CCTV 4,https://dispatch.ulivetv.net/v/live/c9vu1clej000.m3u8?stream_id=c9vu1clej000×tamp=1684385448&rand=VXSe3TMZN3&uuid=9b647b3816b2a66a&from=web&sign=654059abded50d7c2ca42d8d77267c13
+CCTV 5,https://dispatch.ulivetv.net/v/live/c9vu1o0ob5j4.m3u8?stream_id=c9vu1o0ob5j4×tamp=1684385473&rand=lj46LRa82N&uuid=9b647b3816b2a66a&from=web&sign=981ff4e1f410ae1667cddb44c35f18e1
+CCTV 5+,https://dispatch.ulivetv.net/v/live/cgn39awxymrk.m3u8?stream_id=cgn39awxymrk×tamp=1684385964&rand=AqieTM0AFD&uuid=9b647b3816b2a66a&from=web&sign=605f2ef98ebe6199203cbfefc4967016
+CCTV 6,https://dispatch.ulivetv.net/v/live/cgn10iblu2f4.m3u8?stream_id=cgn10iblu2f4×tamp=1684385504&rand=Wn14t3oNrw&uuid=9b647b3816b2a66a&from=web&sign=3a6588d953b4078a5907f5412d5bedfa
+CCTV 7,https://dispatch.ulivetv.net/v/live/cgn1c6p2o2io.m3u8?stream_id=cgn1c6p2o2io×tamp=1684385661&rand=CYiWmJdkcF&uuid=9b647b3816b2a66a&from=web&sign=498ba53a4bdd295e5ff5297f19d5dc77
+CCTV 8,https://dispatch.ulivetv.net/v/live/cgn1g1rn5k8w.m3u8?stream_id=cgn1g1rn5k8w×tamp=1684385708&rand=junbnLWNBn&uuid=9b647b3816b2a66a&from=web&sign=7d181315bf8783b695a5ae901fb66766
+CCTV 9,https://dispatch.ulivetv.net/v/live/cgn1jfvngjb4.m3u8?stream_id=cgn1jfvngjb4×tamp=1684385729&rand=I2vOzlNLje&uuid=9b647b3816b2a66a&from=web&sign=42dda3e70351d634da1fe5ce1d30b95e
+CCTV 10,https://dispatch.ulivetv.net/v/live/cgn1mnc500qo.m3u8?stream_id=cgn1mnc500qo×tamp=1684385794&rand=PaKDHNYFk2&uuid=9b647b3816b2a66a&from=web&sign=1454fe7df657d76718c5d31a64ce0784
+CCTV 11,https://dispatch.ulivetv.net/v/live/cgn1qxe3k6gw.m3u8?stream_id=cgn1qxe3k6gw×tamp=1684385813&rand=qKur0SD9r2&uuid=9b647b3816b2a66a&from=web&sign=18ddc1c071046a080c5f51fed8fdd369
+CCTV 12,https://dispatch.ulivetv.net/v/live/cgn1u1zurzy8.m3u8?stream_id=cgn1u1zurzy8×tamp=1684385833&rand=HXPi3r3QaP&uuid=9b647b3816b2a66a&from=web&sign=a67b4ab120ce3fa43e7624c494a548c8
+CCTV 13,https://dispatch.ulivetv.net/v/live/cgn1x0999zgg.m3u8?stream_id=cgn1x0999zgg×tamp=1684385872&rand=8vvmhahcOB&uuid=9b647b3816b2a66a&from=web&sign=09e3ce18354dda95a2a44e0e191d9efa
+CCTV 14,https://dispatch.ulivetv.net/v/live/cgn20xip2280.m3u8?stream_id=cgn20xip2280×tamp=1684385896&rand=SST7IMcI3x&uuid=9b647b3816b2a66a&from=web&sign=3839df1c2afe545f86028a147ebbe2f2
+CCTV 15,https://dispatch.ulivetv.net/v/live/cgn240uqmrwg.m3u8?stream_id=cgn240uqmrwg×tamp=1684385920&rand=lhB2SLT9oB&uuid=9b647b3816b2a66a&from=web&sign=639691909225ea60dde33513d60333ac
+CCTV 16,https://dispatch.ulivetv.net/v/live/cgn277dnje0w.m3u8?stream_id=cgn277dnje0w×tamp=1684385939&rand=PJ6mSMDL11&uuid=9b647b3816b2a66a&from=web&sign=a1f985c4d7f8df9af3f5de418d269536
+大湾区卫视,https://dispatch.ulivetv.net/v/live/cgwvrf1besw0.m3u8?stream_id=cgwvrf1besw0×tamp=1684588739&rand=oG83P1UKSO&uuid=9b647b3816b2a66a&from=web&sign=d5d11e37cafd862154403b68937a0fa4
+广东卫视,https://dispatch.ulivetv.net/v/live/cgwvo5slhbcw.m3u8?stream_id=cgwvo5slhbcw×tamp=1684588856&rand=PCblxmX6cV&uuid=9b647b3816b2a66a&from=web&sign=6f15dbb071905e7f253e4aa25a847824
+深圳卫视,https://dispatch.ulivetv.net/v/live/cgwvto57pvwg.m3u8?stream_id=cgwvto57pvwg×tamp=1684588832&rand=8mZbP6nU6n&uuid=9b647b3816b2a66a&from=web&sign=2d57a45f0e612d228d2c2b62d93c8a3a
+浙江卫视,https://dispatch.ulivetv.net/v/live/cgwvlwcmnw74.m3u8?stream_id=cgwvlwcmnw74×tamp=1684588388&rand=lTG0YxElBr&uuid=9b647b3816b2a66a&from=web&sign=c108c7342453370b4cdd9831b50c0c50
+东南卫视,https://dispatch.ulivetv.net/v/live/cgwvn8vw4zi8.m3u8?stream_id=cgwvn8vw4zi8×tamp=1684588540&rand=WSczsfREsV&uuid=9b647b3816b2a66a&from=web&sign=c6a5e34eb465a1a1a442eb5c107b7380
+湖南卫视,https://dispatch.ulivetv.net/v/live/cgwvl62c4og0.m3u8?stream_id=cgwvl62c4og0×tamp=1684588351&rand=IneVT3Lfnv&uuid=9b647b3816b2a66a&from=web&sign=9d6843f7f115dfc2eb259d0d2ab739d1
+北京卫视,https://dispatch.ulivetv.net/v/live/cgwvkn768jwg.m3u8?stream_id=cgwvkn768jwg×tamp=1684588294&rand=Dgw3hP0Jah&uuid=9b647b3816b2a66a&from=web&sign=0b0d18be99f44f7839ee4d6a970ed01a
+江苏卫视,https://dispatch.ulivetv.net/v/live/cgwvmpf84bsw.m3u8?stream_id=cgwvmpf84bsw×tamp=1684588486&rand=a71GAEP7zo&uuid=9b647b3816b2a66a&from=web&sign=89ebc81fcf38e14bb0c620a77f3d7000
+重庆卫视,https://dispatch.ulivetv.net/v/live/cgwvmz9yp7ls.m3u8?stream_id=cgwvmz9yp7ls×tamp=1684588512&rand=QiKYclf42l&uuid=9b647b3816b2a66a&from=web&sign=20e5157685ec5216beb35b98609de362
+福建卫视,https://dispatch.ulivetv.net/v/live/cgwvnm2cuny8.m3u8?stream_id=cgwvnm2cuny8×tamp=1684588584&rand=L9WBUpozZU&uuid=9b647b3816b2a66a&from=web&sign=0d0bc1917654cab1ae02e17cf1c738a2
+广西卫视,https://dispatch.ulivetv.net/v/live/cgwvoiircukg.m3u8?stream_id=cgwvoiircukg×tamp=1684588634&rand=GOF0e3N8f7&uuid=9b647b3816b2a66a&from=web&sign=e44b4c61a63e3cbd8b636e7019933ac8
+海南卫视,https://dispatch.ulivetv.net/v/live/cgwvp8nuloe8.m3u8?stream_id=cgwvp8nuloe8×tamp=1684588669&rand=Ce53TyQty0&uuid=9b647b3816b2a66a&from=web&sign=b11aa3f25f7df5129456485ad46e9198
+湖北卫视,https://dispatch.ulivetv.net/v/live/cgwvq50s8xq8.m3u8?stream_id=cgwvq50s8xq8×tamp=1684588708&rand=UzV6IiDiXw&uuid=9b647b3816b2a66a&from=web&sign=a320c2a2d5322f57d1f8a577eba15f00
+云南卫视,https://dispatch.ulivetv.net/v/live/cgx3ceil31s0.m3u8?stream_id=cgx3ceil31s0×tamp=1684588882&rand=et3l1pfhj1&uuid=9b647b3816b2a66a&from=web&sign=9b37d109ab0194d20d006e59bc33377c
+内蒙卫视,https://dispatch.ulivetv.net/v/live/cgwvrqb6evgg.m3u8?stream_id=cgwvrqb6evgg×tamp=1684588784&rand=4794SsqAag&uuid=9b647b3816b2a66a&from=web&sign=271442492a8b8d01d4eb24636c0f45e6
+国家地理 野生频道,https://dispatch.ulivetv.net/v/live/cg1kmp2fnw00.m3u8?stream_id=cg1kmp2fnw00×tamp=1684397287&rand=QBAHO9WEeS&uuid=9b647b3816b2a66a&from=web&sign=3daa80e8ec421a08bed7a242addd84e1
+动物星球频道,https://dispatch.ulivetv.net/v/live/cg1l4589x9s0.m3u8?stream_id=cg1l4589x9s0×tamp=1684397589&rand=m7LkPiG23u&uuid=9b647b3816b2a66a&from=web&sign=e94fd952784e4b4994e29dd472a660f3
+
