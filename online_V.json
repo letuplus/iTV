@@ -49,8 +49,12 @@
       "url": "https://raw.fastgit.org/jackell777/jackell777.github.io/main/list2.txt"
     },
     {
-      "name": "测试",
+      "name": "Test",
       "url": "https://raw.fastgit.org/letuplus/iTV/main/test"
+    },
+    {
+      "name": "Temp",
+      "url": "https://raw.fastgit.org/letuplus/iTV/main/Temp.txt"
     },
     {
       "name": "SVIP01",
