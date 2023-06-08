@@ -173,6 +173,8 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/75e45b2ae9bd4a5fa05906c00742d7
 纬来日本,mitv://generationnexxxt.com:19806/83bd0d8db4124c15ad8f88828c6b344b
 爱尔达影剧台,mitv://generationnexxxt.com:19806/6458c4bf000bb65f5c956b8f6ab30530
 ROCK Entertainment,mitv://generationnexxxt.com:19806/ef256b49ee4c4b83ad97da453803dde6
+
+
 民视(备),mitv://generationnexxxt.com:19806/07b465de830f4fb7a7e9b3f826401578
 三立台湾台(备),mitv://generationnexxxt.com:19806/f2040a67eec34cb4a65705be966c7f01
 Dreamworks,mitv://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35
@@ -242,10 +244,10 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/bbe8e8a94b974d27a3503380b5b934
 港台電視31,mitv://generationnexxxt.com:19806/5c7ff8bb2e0349cdab492d5aea25ff3c
 港台电视32,mitv://generationnexxxt.com:19806/afa315c3220e4a3898e3e2b3beca6ac7
 HOY TV,mitv://generationnexxxt.com:19806/e77cb31fe80747d298ef0d2d9c919f07
-﻿翡翠台(备),mitv://generationnexxxt.com:19806/03b76f07cea3474a913541c586fc0747
+翡翠台(备),mitv://generationnexxxt.com:19806/03b76f07cea3474a913541c586fc0747
 J2,mitv://generationnexxxt.com:19806/1d7353774ff645bcbca9f9d5538c4ba7
 无线新闻台(备),mitv://generationnexxxt.com:19806/fee4b6f52177485c870f9389d95a8801
-无线新闻台,mitv://generationnexxxt.com:19806/645b35240005cc12661c74a01c6f573c
+无线新闻台,mitv://generationnexxxt.com:19806/491bba29dd93447ca316d45432412f1b
 无线财经·资讯台,mitv://generationnexxxt.com:19806/a2c94bb395ca47a095859dc72d106a2e
 ViuTVsix,mitv://generationnexxxt.com:19806/c4c1c3b894794541baf86612a8c8ce33
 ViuTV,mitv://generationnexxxt.com:19806/894e66f1d02e423f9d6726108942dcf1
@@ -522,7 +524,7 @@ The Weather Channel,mitv://generationnexxxt.com:19806/645a790a000b00de633db05826
 KOMO 4 TV,mitv://generationnexxxt.com:19806/645a79070003a120633da2bc7295540c
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 无线新闻台(备),mitv://generationnexxxt.com:19806/fee4b6f52177485c870f9389d95a8801
-无线新闻台,mitv://generationnexxxt.com:19806/645b35240005cc12661c74a01c6f573c
+无线新闻台,mitv://generationnexxxt.com:19806/491bba29dd93447ca316d45432412f1b
 无线财经·资讯台,mitv://generationnexxxt.com:19806/a2c94bb395ca47a095859dc72d106a2e
 CGTN,mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643
 BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
