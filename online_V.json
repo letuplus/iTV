@@ -25,6 +25,10 @@
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u"
     },    
     {
+      "name": "江苏IPv6",
+      "url": "https://raw.fastgit.org/letuplus/iTV/main/JSV6.txt"
+    },  
+    {
       "name": "4K8K",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"
     },   
