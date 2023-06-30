@@ -770,3 +770,4 @@ PLAYBOY,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
 JStar极限台,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
 HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
 K,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
+
