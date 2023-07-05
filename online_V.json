@@ -80,6 +80,10 @@
       "name": "SVIP05",
       "url": "https://raw.fastgit.org/letuplus/iTV/main/SVIP05.m3u"
     },   
+   {
+      "name": "刘玥",
+      "url": "https://raw.fastgit.org/m3u8playlist/dp/master/iplayr/600.txt"
+    },  
     {
       "name": "晴天",
       "url": "https://raw.fastgit.org/letuplus/iTV/main/qt.txt"
