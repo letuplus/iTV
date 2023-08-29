@@ -55,6 +55,10 @@
     {
       "name": "YanG-1989-XXX直播合集",
       "url": "https://tv.iill.top/xx"
-    }
+    },
+    {
+      "name": "Test",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/Test"
+    }    
   ]
 }
