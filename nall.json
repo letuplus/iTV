@@ -25,6 +25,10 @@
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u"
     },    
     {
+      "name": "江苏IPV6",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/JSV6.txt"
+    },
+    {
       "name": "4K8K",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"
     },
@@ -57,8 +61,8 @@
       "url": "https://tv.iill.top/xx"
     },
     {
-      "name": "江苏IPV6",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/JSV6.txt"
-    }
+      "name": "Adult-001",
+      "url": "https://paste.gg/p/anonymous/cd034070ab5f4602a3831de89b77a88a/files/32fe1bbae9d149d3a4bbe952feeea661/raw"
+    }    
   ]
 }
