@@ -59,6 +59,14 @@
     {
       "name": "YanG-1989-XXX直播合集",
       "url": "https://tv.iill.top/xx"
+    },
+    {
+      "name": "DIY-QINGTIAN",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/qingtian.txt"
+    },
+    {
+      "name": "DIY-AVG",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/avg.txt"
     }
   ]
 }
