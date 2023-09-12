@@ -67,6 +67,10 @@
     {
       "name": "DIY-AVG",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/avg.txt"
+    },
+    {
+      "name": "Adult IPTV",
+      "url": "http://adultiptv.net/chs.m3u"
     }
   ]
 }
