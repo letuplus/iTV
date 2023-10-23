@@ -61,6 +61,10 @@
       "url": "https://tv.iill.top/xx"
     },
     {
+      "name": "TCatCloud-Adult",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/TCatCloud/IPTV/Files/Adult.m3u"
+    },
+    {
       "name": "DIY-AVG",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/avg.txt"
     }
