@@ -59,14 +59,6 @@
     {
       "name": "DIY-AVG",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/avg.txt"
-    },
-    {
-      "name": "IPTV-ORG-ALL",
-      "url": "https://iptv-org.github.io/iptv/index.m3u"
-    },
-    {
-      "name": "IPTV-ORG-PLUS",
-      "url": "https://iptv-org.github.io/iptv/index.nsfw.m3u"
     }
   ]
 }
