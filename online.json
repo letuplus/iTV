@@ -51,6 +51,10 @@
     {
       "name": "江苏IPV6",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/JSV6.txt"
-    }    
+    },
+    {
+      "name": "2024loong",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/2024loong.m3u"
+    }
   ]
 }
