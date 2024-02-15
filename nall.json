@@ -1,22 +1,6 @@
 {
   "lives": [
     {
-      "name": "虎牙一起看",
-      "url": "https://live.freetv.top/huyayqk.m3u"
-    },
-    {
-      "name": "斗鱼一起看",
-      "url": "https://live.freetv.top/douyuyqk.m3u"
-    },
-    {
-      "name": "YY轮播",
-      "url": "https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top"
-    },
-    {
-      "name": "BiliBili直播",
-      "url": "https://www.goodiptv.club/bililive.m3u"
-    },
-    {
       "name": "百视通",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u"
     },
