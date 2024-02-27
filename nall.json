@@ -71,6 +71,10 @@
     {
       "name": "DIY-AVG",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/avg.txt"
-    }
+    },
+    {
+      "name": "aabadfer",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aabadfer/iptv/main/iptv.m3u"
+    }    
   ]
 }
