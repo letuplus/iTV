@@ -1,6 +1,10 @@
 {
   "lives": [
     {
+      "name": "虎牙一起看",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/letuplus/iTV/main/huyayqk.m3u"
+    },
+    {
       "name": "MemoryCollection IPv4",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt"
     },
