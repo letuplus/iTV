@@ -13,7 +13,7 @@ for line in lines:
         m3u_data += f"#EXTINF:-1,Channel\n{line}\n"
 
 # 输出到iptvv4.m3u文件
-with open("iptvv4.m3u", "w", encoding="utf-8") as file:
+with open("/iptvv4.m3u", "w", encoding="utf-8") as file:
     file.write(m3u_data)
 
 print("转换完成，已输出到iptvv4.m3u文件")
