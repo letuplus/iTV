@@ -2,7 +2,7 @@ name: Daily Python Script
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # 每天09:00执行，具体的cron表达式可根据需求调整
+    - cron: '22 10 * * *'  # 每天09:00执行，具体的cron表达式可根据需求调整
 
 jobs:
   run-script:
