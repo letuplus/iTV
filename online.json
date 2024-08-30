@@ -14,7 +14,15 @@
     },
     {
       "name": "虎牙一起看",
-      "url": "https://live.freetv.top/huyayqk.m3u?url=https://live.freetv.top"
+      "url": "http://159.75.85.63:35455/huyayqk.m3u?url=http://159.75.85.63:35455"
+    },
+    {
+      "name": "斗鱼一起看",
+      "url": "http://159.75.85.63:35455/douyuyqk.m3u?url=http://159.75.85.63:35455"
+    },
+    {
+      "name": "YY轮播",
+      "url": "http://159.75.85.63:35455/yylunbo.m3u?url=http://159.75.85.63:35455"
     }
   ]
 }
