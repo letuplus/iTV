@@ -13,6 +13,10 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
     },
     {
+      "name": "HUNAN",
+      "url": "https://raw.gitmirror.com/letuplus/iTV/main/hunan.m3u"
+    }, 
+    {
       "name": "虎牙一起看",
       "url": "http://159.75.85.63:35455/huyayqk.m3u?url=http://159.75.85.63:35455"
     },
