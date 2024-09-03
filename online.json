@@ -27,6 +27,10 @@
     {
       "name": "YY轮播",
       "url": "http://159.75.85.63:35455/yylunbo.m3u?url=http://159.75.85.63:35455"
-    }
+    },
+    {
+      "name": "bilibili",
+      "url": "http://159.75.85.63:35455/bililive.m3u?url=http://159.75.85.63:35455"
+    }    
   ]
 }
